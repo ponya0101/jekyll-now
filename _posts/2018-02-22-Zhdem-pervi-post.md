@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Mi vse ochen zhdem bolshoi post ot Boomboni-poni!
 
